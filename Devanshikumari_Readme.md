@@ -59,6 +59,7 @@ cd Devanshikumari_Project2_SourceCode
 ```bash
 python game/main.py
 ```
+NOTE* - Download the Zip-File before Use.
 
 4. Follow the prompts to choose a character, move between rooms, and make a suggestion.
 
